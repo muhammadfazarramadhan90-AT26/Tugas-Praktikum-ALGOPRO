@@ -1,2 +1,3 @@
 # Tugas-Praktikum-ALGOPRO
-Tugas Mandiri 2 Praktikum ALGOPRO
+Nama : Muhammad Fazar Ramadhan
+NIM : 105326016
